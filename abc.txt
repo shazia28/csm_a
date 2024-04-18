@@ -1,7 +1,2 @@
-hi
-hello
-welcome
-to the first sample
-asdfghjk
-sdfghjkl
-asdfghjkl
+welcome to devops class
+welcome to first tool of devops that is GIT 
